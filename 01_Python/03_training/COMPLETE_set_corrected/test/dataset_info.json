@@ -1,0 +1,50 @@
+{
+  "builder_name": "csv",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "csv",
+  "dataset_size": 14541284,
+  "description": "",
+  "download_checksums": {
+    "C:/Users/chris/Meine Ablage/1_Studium/01_MasterThesis/01_Python/../02_Data/COMPLETE_sentences_corrected.csv": {
+      "num_bytes": 13938708,
+      "checksum": null
+    }
+  },
+  "download_size": 13938708,
+  "features": {
+    "sents_leicht": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "sents_standard": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "label": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "id": {
+      "dtype": "int64",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 28479992,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 14541284,
+      "num_examples": 53638,
+      "dataset_name": "csv"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

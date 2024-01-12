@@ -1,0 +1,16 @@
+Comparing: benjamin/gpt2-wechsel-german
+Original GPT([36.0], 'Die Türkei ist ein Land, das sich in den letzten Jahren zu einem der wichtigsten Handelspartner für die Welt entwickelt hat. Die Wirtschaftskraft und -stärke des Landes wird durch eine Vielzahl von internationalen Handelsbeziehungen bestimmt:\nDer türkische Markt bietet neben dem Export auch zahlreiche Dienstleistungen an – darunter beispielsweise im Bereich Tourismus oder Baugewerbe sowie')
+Fine-tuned GPT([52.0], 'Die TürkeiReise ist eine beliebte Reise, die in vielen Ländern stattfindet.')
+
+Easy text sample
+Original GPT: 4.040194511413574
+Fine-tuned GPT: 2.153181314468384
+Complex text sample
+Original GPT: 4.445169448852539
+Fine-tuned GPT 3.563458204269409
+
+ Perplexity
+Perplexity simple fine-tuned GPT: 323.073456
+Perplexity normal fine-tuned GPT: 55.413536
+Perplexity simple original GPT: 77.434059
+Perplexity normal original GPT: 42.855572

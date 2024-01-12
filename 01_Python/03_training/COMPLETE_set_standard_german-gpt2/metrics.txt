@@ -1,0 +1,16 @@
+Comparing: dbmdz/german-gpt2
+Original GPT([53.55], 'Die Türkei hat die EU-Beitrittsverhandlungen mit der Europäischen Union aufgenommen.\nDer Präsident des Bundesamtes für Verfassungsschutz, Hansjörg Müller (CDU), sagte am Montag in Berlin: "Es ist nicht hinnehmbar und es muss Konsequenzen geben". Die AfD habe sich von Anfang an gegen eine Beobachtung gewehrt - auch aus')
+Fine-tuned GPT([76.4], 'Die Türkei hat angekündigt, dass sie den Krieg beenden wird.')
+
+Easy text sample
+Original GPT: 3.940905809402466
+Fine-tuned GPT: 2.7440593242645264
+Complex text sample
+Original GPT: 4.767213344573975
+Fine-tuned GPT 3.899733304977417
+
+ Perplexity
+Perplexity simple fine-tuned GPT: 4587.416504
+Perplexity normal fine-tuned GPT: 340.355255
+Perplexity simple original GPT: 148.271408
+Perplexity normal original GPT: 48.993580
